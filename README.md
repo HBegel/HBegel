@@ -9,9 +9,9 @@ education = {
 fields_of_interests = [
   "Data Science",
   "Data Analyst",
-  "Data Visualization",
-  "Insight Consulting"
+  "Data Visualization"
   ]
 
 technical_background = [
   "Business Solution Consultant",
+  ]
